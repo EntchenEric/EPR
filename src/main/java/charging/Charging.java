@@ -1,4 +1,4 @@
-package eric.seidel;
+package charging;
 
 /**
  * This class calculates and prints the cost of electricity consumption.
@@ -17,16 +17,16 @@ public class Charging {
     int costPerMin = 30;
 
     // Calculate and print the cost for the first scenario
-    System.out.println("Cost for Scenario 1: " + (costPerkWh * 50 + costPerMin * 60));
+    System.out.println((costPerkWh * 50 + costPerMin * 60));
 
     // Calculate and print the cost for the second scenario
-    System.out.println("Cost for Scenario 2: " + (costPerkWh * 70 + costPerMin * 90));
+    System.out.println((costPerkWh * 70 + costPerMin * 90));
 
     // Calculate and print the cost for the third scenario
-    System.out.println("Cost for Scenario 3: " + (costPerkWh * 55 + costPerMin * 70));
+    System.out.println((costPerkWh * 55 + costPerMin * 70));
 
     // Calculate and print the total cost for all scenarios
-    System.out.println("Total Cost for All Scenarios: " +
+    System.out.println(
             (costPerkWh * (50 + 70 + 55) + costPerMin * (60 + 90 + 70)));
   }
 }

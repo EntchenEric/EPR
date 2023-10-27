@@ -1,4 +1,4 @@
-package eric.seidel;
+package calculation;
 
 /**
  * This class provides examples of various calculations in Java.
@@ -6,7 +6,6 @@ package eric.seidel;
 public class Calculations {
   /**
    * This method demonstrates different mathematical operations and prints the results.
-   * <p>
    * It performs the following calculations and prints the results:
    * - Division and multiplication: (45 / 9) * (40 - 32) / 9
    * - Division and multiplication: (45 / 9) * (41 - 32) / 9

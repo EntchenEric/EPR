@@ -1,4 +1,4 @@
-package eric.seidel;
+package rice;
 
 /**
  * The Rice class calculates the number of rice grains on a chessboard where the number
