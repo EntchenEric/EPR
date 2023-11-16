@@ -14,7 +14,7 @@ public class Calculations {
    * - Division and remainder: (60 / 60) + (60 % 60)
    * - Division and remainder: (61 / 60) + (61 % 60)
    * - Division and remainder: (825 / 60) + (825 % 60)
-   *
+   *krggwgrgd
    * @param args The command-line arguments, not used in this method.
    */
   public static void main(String[] args) {
