@@ -13,12 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EntchenEric"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EntchenEric&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -27,9 +27,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2XKpGnVp3wETeTi94xriWEsVd6P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Eric/Desktop/EPR",
+    "last_opened_file_path": "/Users/finnschluter/Documents/GitHub/EPR",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698387535291</updated>
       <workItem from="1698387538763" duration="763000" />
+      <workItem from="1700126068372" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="Added first three packages">
       <option name="closed" value="true" />
