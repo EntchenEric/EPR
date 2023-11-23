@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="417e56da-09b0-484a-90e7-3fdda21e386a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Eelectricitybill/ElectricityBill2.java" afterDir="false" />
+    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/squareroot/SquareRootFinn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;EntchenEric&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="9637699c-31ab-4114-894d-9403dad86ca6" />
-        <option name="url" value="https://github.com/EntchenEric/EPR" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2XKpGnVp3wETeTi94xriWEsVd6P" />
+  <component name="ProjectId" id="2YZO2CVXGyqVQPFCrpogGOcm1DT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,41 +37,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/finnschluter/Documents/GitHub/EPR",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="417e56da-09b0-484a-90e7-3fdda21e386a" name="Changes" comment="" />
-      <created>1698387535291</created>
+      <changelist id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="" />
+      <created>1700729430525</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698387535291</updated>
-      <workItem from="1698387538763" duration="763000" />
-      <workItem from="1700126068372" duration="38000" />
+      <updated>1700729430525</updated>
+      <workItem from="1700729439005" duration="63000" />
+      <workItem from="1700729523485" duration="2132000" />
     </task>
-    <task id="LOCAL-00001" summary="Added first three packages">
-      <option name="closed" value="true" />
-      <created>1698387816875</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1698387816875</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added first three packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first three packages" />
   </component>
 </project>
