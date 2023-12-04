@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/digit/DigitsMaurice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/digit/DistinctDigitsMaurice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/digit/OrderDigitsMaurice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/digit/SortingDigitsMaurice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fraction/FractionMaurice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/digit/DigitsMaurice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digit/DigitsMaurice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,12 +68,25 @@
       <workItem from="1700729523485" duration="2444000" />
       <workItem from="1701334777764" duration="434000" />
       <workItem from="1701335240907" duration="1027000" />
-      <workItem from="1701710137685" duration="726000" />
+      <workItem from="1701710137685" duration="4791000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks.">
+      <option name="closed" value="true" />
+      <created>1701711192665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701711192665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
