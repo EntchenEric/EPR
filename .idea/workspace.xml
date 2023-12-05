@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="Finish Task DigitsMaurice" />
+    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="Add TaskFile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/digit/OrderDigitsMaurice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digit/OrderDigitsMaurice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +92,7 @@
       <workItem from="1701334777764" duration="434000" />
       <workItem from="1701335240907" duration="1027000" />
       <workItem from="1701710137685" duration="4791000" />
-      <workItem from="1701764669582" duration="2156000" />
+      <workItem from="1701764669582" duration="6501000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks.">
       <option name="closed" value="true" />
@@ -107,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701766544272</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add TaskFile">
+      <option name="closed" value="true" />
+      <created>1701766987199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701766987199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks." />
     <MESSAGE value="Finish Task DigitsMaurice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Task DigitsMaurice" />
+    <MESSAGE value="Add TaskFile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TaskFile" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
