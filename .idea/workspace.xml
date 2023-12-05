@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="Do Task OrderDigitsMaurice">
+    <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="Do Task DistinctDigitsMaurice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/digit/DistinctDigitsMaurice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digit/DistinctDigitsMaurice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/digit/SortingDigitsMaurice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digit/SortingDigitsMaurice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,7 @@
       <workItem from="1701334777764" duration="434000" />
       <workItem from="1701335240907" duration="1027000" />
       <workItem from="1701710137685" duration="4791000" />
-      <workItem from="1701764669582" duration="7595000" />
+      <workItem from="1701764669582" duration="8339000" />
     </task>
     <task id="LOCAL-00001" summary="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks.">
       <option name="closed" value="true" />
@@ -126,18 +126,38 @@
       <option name="project" value="LOCAL" />
       <updated>1701773436741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Do Task DistinctDigitsMaurice">
+      <option name="closed" value="true" />
+      <created>1701780132990</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701780132990</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new Packages for Praktikum tasks. &#10;Add new Classes for Praktikum tasks." />
     <MESSAGE value="Finish Task DigitsMaurice" />
     <MESSAGE value="Add TaskFile" />
     <MESSAGE value="Do Task OrderDigitsMaurice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do Task OrderDigitsMaurice" />
+    <MESSAGE value="Do Task DistinctDigitsMaurice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do Task DistinctDigitsMaurice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
