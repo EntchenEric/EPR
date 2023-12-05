@@ -1,6 +1,6 @@
 package digit;
 
-public class SortingDigits {
+public class SortingDigitsMaurice {
 
   /**
    * Returns a power of ten that can be used to divide the argument in half by applying the divide
