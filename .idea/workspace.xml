@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9620bd2c-7c33-4167-bcc7-6869a3ae798c" name="Changes" comment="update task SortingDigitsMaurice.java">
-      <change beforePath="$PROJECT_DIR$/src/main/java/digit/SortingDigitsMaurice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digit/SortingDigitsMaurice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fraction/FractionEric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fraction/FractionTestEric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/digit/Digits.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/percentage/PercentageIncreaseEric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/percentage/PercentageIncreaseEric.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

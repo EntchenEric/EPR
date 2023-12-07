@@ -16,7 +16,7 @@ public class PercentageIncreaseEric {
      * The increased number
      */
     public static double increase(double base, int percentage, int decimalPlaces){
-        double result = base * (double) ( 1 + ((double) percentage / 100));
+        double result = base * ( 1 + ((double) percentage / 100));
         result = (int) (result * (Math.pow(10, decimalPlaces)) + 0.5);
         result = result / (Math.pow(10, decimalPlaces));
         return result;
