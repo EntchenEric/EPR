@@ -15,7 +15,7 @@ public class FractionEric {
     }
 
     public String asText(){
-        return calculatedFraction.toString();
+        return "calculatedFraction";
     }
     public static void main(String[] args) {
 
