@@ -17,8 +17,10 @@ public class FractionEric {
     public String asText(){
         return "calculatedFraction";
     }
-    public static void main(String[] args) {
-
+    public static int ggT(int m, int n){
+        return n == 0
+                ? m
+                : ggT(n, m%n);
     }
 }
 
