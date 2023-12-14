@@ -18,7 +18,7 @@ public class SquareRootEric {
    * the main method of the code.
    * @param args not used.
    */
-  public static void main(String args[]){
+  public static void main(String[] args){
     System.out.println(isSquareRoot(2, 4));
     System.out.println(isSquareRoot(2, 5));
     System.out.println(isSquareRoot(3, 9));
