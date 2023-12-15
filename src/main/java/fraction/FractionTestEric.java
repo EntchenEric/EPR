@@ -27,7 +27,7 @@ public class FractionTestEric {
     System.out.println("Schritt 6");
 
     FractionEric fraction3 = new FractionEric(17, 4);
-    System.out.println(fraction3.add(new FractionEric(7/4)).asText());
+    System.out.println(fraction3.add(new FractionEric(7,4)).asText());
 
     //USchrtit 7
     System.out.println("Schritt 7");
@@ -38,9 +38,9 @@ public class FractionTestEric {
     //Schritt 8
     System.out.println("Schritt 8");
 
-    FractionEric fraction5 = new FractionEric(11, 2108303);
-    System.out.println(fraction5.add(new FractionEric(31, 2117009))
-            .add(new FractionEric(47, 2134421))
+    FractionEric fraction5 = new FractionEric(11L, 2108303L);
+    System.out.println(fraction5.add(new FractionEric(31L, 2117009L))
+            .add(new FractionEric(47L, 2134421L))
             .asText());
 
     //SChriit 9

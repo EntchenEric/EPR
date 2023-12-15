@@ -2,30 +2,38 @@ package fraction;
 
 public class FractionEric {
   long numerator;
-  long denumerator;
+  long denominator;
 
   public FractionEric(long numerator) {
     this.numerator = numerator;
-    this.denumerator = 1;
+    this.denominator = 1;
   }
 
-  public FractionEric(long numerator, long denumerator) {
+  public FractionEric(long numerator, long denominator) {
     this.numerator = numerator;
-    this.denumerator = denumerator;
+    this.denominator = denominator;
   }
 
   public FractionEric add(FractionEric fraction) {
-    long numerator = this.numerator * fraction.denumerator;
-    numerator += fraction.numerator * this.denumerator;
-    long denumerator = this.denumerator * fraction.denumerator;
-    return new FractionEric(numerator, denumerator);
+    shorten();
+    fraction.shorten();
+    long numerator = this.numerator * fraction.denominator;
+    numerator += fraction.numerator * this.denominator;
+    long denumerator = this.denominator * fraction.denominator;
+    FractionEric newFraction = new FractionEric(numerator, denumerator);
+    newFraction.shorten();
+    return newFraction;
   }
 
   public String asText() {
-    long ggT = ggT(this.numerator, this.denumerator);
+    shorten();
+    return this.numerator + "/" + this.denominator;
+  }
+
+  public void shorten(){
+    long ggT = ggT(this.numerator, this.denominator);
     this.numerator = this.numerator / ggT;
-    this.denumerator = this.denumerator / ggT;
-    return this.numerator + "/" + this.denumerator;
+    this.denominator = this.denominator / ggT;
   }
 
   public static long ggT(long m, long n) {
